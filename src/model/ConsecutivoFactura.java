@@ -1,3 +1,5 @@
+package model;
+
 public class ConsecutivoFactura {
 
     // 3 partes de un Singleton.
